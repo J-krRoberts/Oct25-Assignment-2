@@ -1,0 +1,4 @@
+Facial verification
+Email verification
+Text verification
+Call verification
