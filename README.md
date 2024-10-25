@@ -1,2 +1,7 @@
 # Oct25-Assignment-2
-Assignment content 
+Fix issues below 
+
+## Issues 
+-Fix data base 
+-Fix files 
+-Fix verification
