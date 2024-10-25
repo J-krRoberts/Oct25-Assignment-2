@@ -2,6 +2,6 @@
 Fix issues below 
 
 ## Fix issues 
--app.css file
--app.js file
--Add another image to the files sent
+-Fix files bug
+-Fix app verification bug
+-Fix data base bug
